@@ -146,7 +146,7 @@ main {
     color: var(--verylightgray);
     margin: auto 0;
     margin-right: 100px;
-    z-index: 99;
+    z-index: 97;
 }
 
 .work-cta-button:hover {
